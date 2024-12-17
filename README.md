@@ -1,8 +1,8 @@
-# Projeto_CoderHouse
-Repositório criado para armazenar as entregas do projeto do curso de Python da Coder House
+# Projeto Final Python - Coder House
 
-Aluna: Gabrielly Simone Miranda da Silva
+## Descrição
+Projeto referente conclusão do curso de Python turma 63730, aluna Gabrielly Simone Miranda da Silva.
 
-Turma 63730 - Python
-
-Professor e tutor: Gabriel Rodrigues
+## Pré-requisitos
+- Python instalado
+- Virtual Environment configurado
